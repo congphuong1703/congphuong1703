@@ -15,18 +15,13 @@
 ### 🚀 Kỹ năng & Công cụ
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,java,springboot,git,github,aws,mysql" />
   </a>
 </p>
 
 ---
 
 ### 📊 Thống kê GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=congphuong1703&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congphuong1703&layout=compact&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=congphuong1703&theme=radical" alt="GitHub Streak" />
 </p>
