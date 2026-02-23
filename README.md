@@ -6,10 +6,9 @@
 
 ### 💫 Về mình
 - 🔭 Mình hiện đang thực hiện các dự án cá nhân trên GitHub.
-- 🌱 Mình đang học thêm về **[Ngôn ngữ/Công nghệ bạn đang học]**.
+- 🌱 Mình đang học thêm về **AI**.
 - 👯 Mình rất sẵn lòng hợp tác trong các dự án **Open Source**.
 - 💬 Hỏi mình về bất cứ điều gì liên quan đến công nghệ.
-- 📫 Cách liên hệ với mình: **[Email của bạn]**
 
 ---
 
@@ -36,9 +35,8 @@
 
 ### 🤝 Kết nối với mình
 <p align="left">
-  <a href="https://facebook.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://facebook.com/congphuong1703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-c%C3%B4ng-074243194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
